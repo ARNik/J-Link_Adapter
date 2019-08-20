@@ -19,5 +19,21 @@ J-Link debug probe for use with the adapter:
 
 <img src="images/segger-j-link-arm.jpg" alt="segger-j-link-arm.jpg" width="400" >
 
+## Licenses
+
+### Circuit Schematics
+
+The circuit schematics of this project are made available under the
+[CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
+### Hardware Design
+
+<img src="https://i2.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png?resize=95%2C100"> Open source hardware.
+
+### Miscellenious
+
+Data sheets, Altium libraries, 3D Models are subject to vendor specific
+licensing.
+
 
 
